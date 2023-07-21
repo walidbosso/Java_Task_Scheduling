@@ -1,0 +1,8 @@
+SlaveIp;127.0.0.1
+SlavePort;9000
+SlaveIp;127.0.0.1
+SlavePort;9001
+SlaveIp;127.0.0.1
+SlavePort;9002
+SlaveIp;127.0.0.1
+SlavePort;9003
