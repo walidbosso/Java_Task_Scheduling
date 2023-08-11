@@ -17,10 +17,11 @@
 
 -------------------
 - Extra:
--jps : to see all javaprocess along with PID 
 ```bash
-taskkill /PID 5032 /F #to terminate
+jps #To see all javaprocess along with PID
 ```
-> /F to terminate 
-> & 5032 is an exemple
+```bash
+taskkill /PID 5032 /F #To terminate
+```
+> 5032 is an exemple
 :smile:
