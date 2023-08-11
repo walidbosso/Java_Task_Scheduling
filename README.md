@@ -3,8 +3,10 @@
 ## Presentation:
 - Our project introduces a Java-based Distributed Task Scheduling System for parallel data(Image & Matrix) processing. 
 - Efficient task scheduling optimizes resource allocation and timeframes. 
-- Clients easily submit various tasks like Filter, Convolution, and Matrix, executed via RMI on the server. 
-- Server further breaks down tasks through TCP to slaves, then compiles outcomes. 
+
+## What does my project do exactly:
+- Clients can easily submit various tasks like Filter, Convolution, and Matrix, executed via RMI on the server. 
+- Server further breaks down tasks through TCP to slaves, then compiles outcomes, and then sends the result back to the client.
 - Slaves play a pivotal role by executing assigned sub-tasks.
 
 ## Instructions:  
