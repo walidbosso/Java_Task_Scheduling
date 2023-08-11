@@ -21,6 +21,6 @@
 ```bash
 taskkill /PID 5032 /F #to terminate
 ```
-> /F to terminate
-> 5032 is an exemple
+> /F to terminate 
+> & 5032 is an exemple
 :smile:
