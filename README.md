@@ -1,12 +1,11 @@
 # Java_Task_Scheduling
 
 ## Presentation:
-- Task scheduling is an essential part of any organization's workflow. 
-- It helps manage the allocation of resources, ensure that tasks are completed on time and minimize waste.
-So The objective of our project is to develop a Distributed Task Scheduling System that allows a **parallel processing** of data(images, matrix) sets using MapReduce tasks in a Java environment.
-- The clients can submit the tasks (FilterTask, ConvolutionTask, MatrixTask) to the server to be  executed using **RMI**, and then receive the result from the server.
-- The server send sub-tasks (after spliting the main task) **using TCP** to the slaves, and then receive the sub-tasks result.
-- The slaves excute the sub-tasks received from the server.
+- Our project introduces a Java-based Distributed Task Scheduling System for parallel data(Image & Matrix) processing. 
+- Efficient task scheduling optimizes resource allocation and timeframes. 
+- Clients easily submit various tasks like Filter, Convolution, and Matrix, executed via RMI on the server. 
+- Server further breaks down tasks through TCP to slaves, then compiles outcomes. 
+- Slaves play a pivotal role by executing assigned sub-tasks.
 
 ## Instructions:  
 - Put all 5 config.txt files+ image+ kernel.txt in Desktop
