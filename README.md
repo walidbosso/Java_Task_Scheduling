@@ -1,7 +1,7 @@
 # Java_Task_Scheduling
 
 ## Presentation:
-- Our project introduces a Java-based Distributed Task Scheduling System for parallel data(Image & Matrix) processing. 
+- This project introduces a Java-based Distributed Task Scheduling System for parallel data(Image & Matrix) processing. 
 - Efficient task scheduling optimizes resource allocation and timeframes. 
 
 ## What does my project do exactly:
