@@ -2,7 +2,7 @@
 
 ## Instructions:  
 - Put all 5 config.txt files+ image+ kernel.txt in Desktop
-- **Inside folder "src" open 8 of Git-Bash in each 1 of these lines type these lines:** 
+- **Inside folder "src" open 8 of Git-Bash in each 1 of type these lines:** 
 ```bash
 1. javac Classes/*.java
 2. java Classes.SlaveTask config0.txt
