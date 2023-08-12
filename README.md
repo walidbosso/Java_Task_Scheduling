@@ -1,7 +1,7 @@
 # Java_Task_Scheduling
 
 ## Presentation:
-- This project introduces a Java-based Distributed Task Scheduling System for parallel data(Image & Matrix) processing using `Threads`. 
+- This project introduces a Java-based Distributed Task Scheduling System for <b> parallel</b> data(Image & Matrix) processing using `Threads`. 
 - Efficient task scheduling optimizes resource allocation and timeframes. 
 
 ## What does my project do exactly:
@@ -32,13 +32,16 @@
 8. java Classes.Tasks
 ```
 
--------------------
+
 - Extra:
 ```bash
 jps #To see all javaprocess along with PID
 ```
 ```bash
-taskkill /PID 5032 /F #To terminate in case it was needed
+taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an example.
 ```
-> 5032 is just an exemple. <br/>
-:smile:
+----------------------
+> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
+----------------------
+
+
