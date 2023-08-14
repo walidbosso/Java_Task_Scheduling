@@ -1,4 +1,4 @@
-# <summary> Java Task Scheduling System:</summary> 
+# Java Task Scheduling System:
 
 ## <details><summary> Presentation:</summary>
 - This project introduces a Java-based Distributed Task Scheduling System for <b> parallel</b> data(Image & Matrix) processing using `Threads`. 
