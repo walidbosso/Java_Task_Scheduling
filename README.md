@@ -43,6 +43,7 @@ jps #To see all javaprocess along with PID
 taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an example.
 ```
 </details>
+
 ----------------------
 > >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
 ----------------------
