@@ -35,7 +35,8 @@
 ```
 
 
-- Extra:
+## Extra
+### A port open error:
 ```bash
 jps #To see all javaprocess along with PID
 ```
@@ -44,9 +45,14 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 ```
 </details>
 
+### More ressources: 
+
 - In case you didn't want to do this manually and felt lazy, check the folder called `Xtra`, I included C codes where it can automatize this work, just fix the Path to each C file in each C code, compile each one of them. When you finish, run **TaskManagement_Process.c**, this will run all the 8 commands I mentioned above automatically.
-- [x] Now whenever you feel like trying the project again just run **TaskManagement_Process.c**, no need to run 8 commands every single time.
+ - Now whenever you feel like trying the project again just run **TaskManagement_Process.c**, no need to run 8 commands every single time.
+
 - Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions. 
+
+<br>
 
 ----------------------
 > >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
