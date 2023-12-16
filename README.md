@@ -110,7 +110,7 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 
 ## Contributors
 
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+<a href = "https://github.com/walidbosso">
   <img src = "https://contrib.rocks/image?repo=walidbosso/Java_Task_Scheduling"/>
 </a>
 
