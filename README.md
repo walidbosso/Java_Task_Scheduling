@@ -85,19 +85,22 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 > >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
 ----------------------
 
+<details>
 
-𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
+<summary>👏 Thanks for the support </summary>
 
-<br/><br/><details>
-
-<summary>👏 Thanks for the support 👇 </summary>
+## Stargazers
 
 
 <div align="center">
 
 [![Stargazers repo roster for @walidbosso/Java_Task_Scheduling](http://reporoster.com/stars/dark/walidbosso/Java_Task_Scheduling)](https://github.com/walidbosso/Java_Task_Scheduling/stargazers)
 
+
+
 </div>
+
+## Forkers
 
 <div align="center" >
 
@@ -105,8 +108,29 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 
 </div>
 
+## Contributors
+
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=walidbosso/Java_Task_Scheduling"/>
+</a>
+
 
 <br/></details><br/>
+
+<div align="center">
+
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Java_Task_Scheduling?style=social)
+
+</div>
+<div align="center">
+
+![GitHub License](https://img.shields.io/github/license/walidbosso/JEE_Sales_MANAGEMENT?style=social)
+</div>
+
+
+𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
+
+<br/>
 
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
