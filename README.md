@@ -37,8 +37,7 @@
 ## <details><summary> Instructions: </summary> 
  Put all 5 config.txt files+ image+ kernel.txt in Desktop
  
- **Inside folder "src" open 8 of Git-Bash in each 1 of type these lines:** 
- 
+ **Inside folder "src" open 8 of Git-Bash in each 1 of type these lines:**  
 ```bash
 # Compile Java files
 1. javac Classes/*.java 
