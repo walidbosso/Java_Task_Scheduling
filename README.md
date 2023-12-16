@@ -86,9 +86,27 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 ----------------------
 
 
-
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Java_Task_Scheduling?style=social)
-
-![GitHub License](https://img.shields.io/github/license/walidbosso/Java_Task_Scheduling?style=social)
-
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
+
+<br/><br/><details>
+
+<summary>👏 Thanks for the support 👇 </summary>
+
+
+<div align="center">
+
+[![Stargazers repo roster for @walidbosso/Java_Task_Scheduling](http://reporoster.com/stars/dark/walidbosso/Java_Task_Scheduling)](https://github.com/walidbosso/Java_Task_Scheduling/stargazers)
+
+</div>
+
+<div align="center" >
+
+[![Forkers repo roster for @walidbosso/Java_Task_Scheduling](http://reporoster.com/forks/dark/walidbosso/Java_Task_Scheduling)](https://github.com/walidbosso/Java_Task_Scheduling/network/members)
+
+</div>
+
+
+<br/></details><br/>
+
+
+<p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
