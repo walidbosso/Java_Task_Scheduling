@@ -118,6 +118,9 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 <br/></details><br/>
 
 <div align="center">
+  
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FJava_Task_Scheduling&label=Total%20views&countColor=%23263759&style=flat-square&labelStyle=none" />
+<br/>
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Java_Task_Scheduling?style=social)
 
@@ -125,6 +128,10 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 <div align="center">
 
 ![GitHub License](https://img.shields.io/github/license/walidbosso/JEE_Sales_MANAGEMENT?style=social)
+
+
+
+
 </div>
 
 
@@ -134,3 +141,10 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
+
+
+<!--
+![Stargazers over time](https://starchart.cc/walidbosso/Java_Task_Scheduling.svg)
+
+![Sparkline](https://stars.medv.io/walidbosso/Java_Task_Scheduling.svg)
+-->
