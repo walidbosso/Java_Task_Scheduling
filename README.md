@@ -79,12 +79,16 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 
 <br>
 
+<div align="center">
+  
 ----------------------
 > >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
 ----------------------
 
-<div align="center">
+
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/JEE_Sales_MANAGEMENT?style=social)
 
 ![GitHub License](https://img.shields.io/github/license/walidbosso/JEE_Sales_MANAGEMENT?style=social)
+
+𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
