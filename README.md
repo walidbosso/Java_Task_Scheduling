@@ -38,7 +38,8 @@
  Put all 5 config.txt files+ image+ kernel.txt in Desktop
  
  **Inside folder "src" open 8 of Git-Bash in each 1 of type these lines:**  
- ### --
+<div align="left">
+  
 ```bash
 # Compile Java files
 1. javac Classes/*.java 
@@ -58,7 +59,7 @@
 # Open the GUI
 8. java Classes.Tasks
 ```
-
+</div>
 
 ## Extra
 ### A port open error:
