@@ -3,17 +3,24 @@
 
 <p align="center">
 <a href="https://github.com/walidbosso/Java_Task_Scheduling">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Java_Task_Scheduling)
 
+  <p align="center">
+<a href="https://github.com/walidbosso/Java_Task_Scheduling">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FJava_Task_Scheduling&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+</p>
 
 <a href="https://github.com/walidbosso/Java_Task_Scheduling">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
+
+
+<br/>
   
 # Java Task Scheduling System
   
@@ -118,9 +125,7 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 <br/></details><br/>
 
 <div align="center">
-  
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FJava_Task_Scheduling&label=Total%20views&countColor=%23263759&style=flat-square&labelStyle=none" />
-<br/>
+
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Java_Task_Scheduling?style=social)
 
