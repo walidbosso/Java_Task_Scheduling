@@ -42,7 +42,7 @@
 </details>
 
 ## <details><summary> Instructions: </summary> 
-- Install JDK if its not installed yet, when done, go to you environement variables, Edit Path, and add "C:\Path\To\Your\JDK\bin" at the end of it.
+- Install JDK if its not installed yet, when done, go to your system environement variables, Edit Path, and add "C:\Path\To\Your\JDK\bin" at the end of it.
 
 - Put all 5 config.txt files+ image+ kernel.txt in Desktop
  
