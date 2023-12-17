@@ -132,7 +132,7 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/JEE_Sales_MANAGEMENT?style=social)
+![GitHub License](https://img.shields.io/github/license/walidbosso/Java_Task_Scheduling?style=social)
 
 
 
