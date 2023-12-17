@@ -180,10 +180,10 @@ public class Tasks extends javax.swing.JFrame {
 
             if (radio2.isSelected()) { // Convolution part
                 // read image file
-                String pathimage = "C:\\Users\\USER\\Desktop\\";
+                String pathimage = "C:\\Users\\User\\Desktop\\";
                 pathimage += F4.getText();
                 // read kernel file 
-                String pathkernel = "C:\\Users\\USER\\Desktop\\";
+                String pathkernel = "C:\\Users\\User\\Desktop\\";
                 pathkernel += F2.getText();
                 // read kernel 
                 kernel = readKernel(new File(pathkernel));
@@ -207,7 +207,7 @@ public class Tasks extends javax.swing.JFrame {
 
                 System.out.println(color);
                 // read image file
-                String pathimage = "C:\\Users\\USER\\Desktop\\";
+                String pathimage = "C:\\Users\\User\\Desktop\\";
                 pathimage += F4.getText();
                 File output = new File(pathimage);
                 // image to byte

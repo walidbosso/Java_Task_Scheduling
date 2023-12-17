@@ -87,7 +87,7 @@ public class TaskSchedulerServer {
             Naming.rebind("rmi://localhost:13190/task", skeleton);
             System.out.println("Server is ready ...");
             
-           String path = "C:\\Users\\USER\\Desktop\\";
+           String path = "C:\\Users\\User\\Desktop\\";
            path += args[0];
            file = new File(path);
            readConfigFile();

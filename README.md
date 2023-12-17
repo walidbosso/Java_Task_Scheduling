@@ -42,6 +42,8 @@
 </details>
 
 ## <details><summary> Instructions: </summary> 
+- Install JDK if its not installed yet, when done, go to you environement variables, Edit Path, and add "C:\Path\To\Your\JDK\bin" at the end of it.
+
 - Put all 5 config.txt files+ image+ kernel.txt in Desktop
  
  **Inside folder "src" open 8 of Git-Bash in each 1 of type these lines:**  

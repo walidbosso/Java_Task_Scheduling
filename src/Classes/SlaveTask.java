@@ -186,7 +186,7 @@ public class SlaveTask {
     }
 
     public static void main(String[] args) throws IOException, InterruptedException, ClassNotFoundException {
-        String path = "C:\\Users\\USER\\Desktop\\";
+        String path = "C:\\Users\\User\\Desktop\\";
 
         path += args[0];
         file = new File(path);

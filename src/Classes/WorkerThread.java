@@ -43,7 +43,7 @@ public class WorkerThread implements Runnable {
 
                     CovolutionTask task2 = (CovolutionTask) task;
                     task2.execute();
-                    File output1 = new File("C:\\Users\\USER\\Documents\\NetBeansProjects\\End_of_module\\src\\Classes\\convolutionresult.jpg");
+                    File output1 = new File("C:\\Users\\User\\Desktop\\convolutionresult.jpg");
                     ImageIO.write((BufferedImage) task2.result, "jpg", output1);
                     System.out.println("done execute ");
                      ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -58,7 +58,7 @@ public class WorkerThread implements Runnable {
 
                     FilterTask task3 = (FilterTask) task;
                     task3.execute();
-                    File output1 = new File("C:\\Users\\USER\\Documents\\NetBeansProjects\\End_of_module\\src\\Classes\\"+task3.ID+"");
+                    File output1 = new File("C:\\Users\\User\\Desktop\\"+task3.ID+".jpg");
                     ImageIO.write((BufferedImage) task3.result, "jpg", output1);
                     System.out.println("done execute ");
                     ByteArrayOutputStream baos = new ByteArrayOutputStream();
