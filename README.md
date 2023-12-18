@@ -35,8 +35,8 @@
 </details>
 
 ## <details><summary> What does my project do exactly:</summary>
-- Clients can easily submit various tasks like *Filter, Convolution, and Matrix*, executed via `RMI` on the server. 
-- Server further breaks down tasks through `TCP` to slaves, then compiles outcomes, and then sends the result back to the client.
+- Clients can easily submit various tasks like *Filter, Convolution, and Matrix*, executed via `RMI` on the server. All will be executed in parallel.
+- Server and its workers further breaks down tasks to pieces and send them through `TCP` to slaves, then compiles outcomes when they are ready again, and then sends the result back to the client.
 - Slaves play a pivotal role by executing assigned sub-tasks.
  
 </details>
