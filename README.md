@@ -42,6 +42,8 @@
 </details>
 
 ## <details><summary> Instructions: </summary> 
+- Fork & Clone the repository.
+
 - Install JDK if its not installed yet, when done, go to your system environement variables, Edit Path, and add "C:\Path\To\Your\JDK\bin" at the end of it.
 
 - Put all 5 config.txt files+ image+ kernel.txt in Desktop
