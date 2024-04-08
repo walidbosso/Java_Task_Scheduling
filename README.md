@@ -53,22 +53,22 @@
   
 ```bash
 # Compile Java files
-1. javac Classes/*.java 
+javac Classes/*.java 
 
 # Starts the slaves listening TCP
-2. java Classes.SlaveTask config0.txt
-3. java Classes.SlaveTask config1.txt
-4. java Classes.SlaveTask config2.txt
-5. java Classes.SlaveTask config3.txt
+java Classes.SlaveTask config0.txt
+java Classes.SlaveTask config1.txt
+java Classes.SlaveTask config2.txt
+java Classes.SlaveTask config3.txt
 
 # Open the RMI port
-6. rmiregistry 13190
+rmiregistry 13190
 
 # Start the server, creates multiple workers which works in parallel
-7. java Classes.TaskSchedulerServer config.txt
+java Classes.TaskSchedulerServer config.txt
 
 # Open the GUI
-8. java Classes.Tasks
+java Classes.Tasks
 ```
 </div>
 
