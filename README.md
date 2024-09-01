@@ -160,7 +160,7 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 <br/>
 
 
-<p align="center"><a href="https://github.com/walidbosso/Java_Task_Scheduling?tab=readme-ov-file#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
 
 <!--
