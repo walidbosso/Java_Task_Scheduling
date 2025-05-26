@@ -96,7 +96,7 @@ taskkill /PID 5032 /F #To terminate in case it was needed, 5032 is just an examp
 > >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
 ----------------------
 
-<details>
+<details open disabled>
 
 <summary>👏 Thanks for the support </summary>
 
